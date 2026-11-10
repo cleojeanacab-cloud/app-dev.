@@ -29,3 +29,9 @@ My Rating: 10/10
 More Information
 
 [Watch Stranger Things on Netflix](https://www.netflix.com/title/80057281)
+
+My Recommendation
+
+I highly recommend Stranger Things because it has
+an exciting storyline, amazing characters,
+and unforgettable adventures.
